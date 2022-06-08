@@ -52,7 +52,7 @@ if (isset($_POST['name'])){
     <title>Welcome to Travel Form</title>
 </head>
 <body>
-    <img class="background" src="images/bg1.gif">
+    <img class="background" src="/bg1.gif">
     <div class="container">
         <h1>Welcome to Swarnim's Manali Travel Form</h1>
         <p>Enter your details and submit this form to confirm your participation in the trip</p>
